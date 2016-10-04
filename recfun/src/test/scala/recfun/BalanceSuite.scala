@@ -26,4 +26,8 @@ class BalanceSuite extends FunSuite {
     assert(!balance("())(".toList))
   }
 
+  test("balance: more right parens than left") {
+    assert(!balance("((asdf))(()hello".toList))
+  }
+
 }
