@@ -4,7 +4,7 @@
 		module="progfun1-funsets$sbt_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161011212136"
+		publication="20161012142004"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
